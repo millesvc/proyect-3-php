@@ -1,7 +1,3 @@
-# AuthSystem PHP 7.3 Fix
-
-Versión corregida para PHP 7.3 del sistema de autenticación MVC.
-
 ## Ejecutar
 
 ```bash
